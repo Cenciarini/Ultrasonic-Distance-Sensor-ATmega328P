@@ -63,5 +63,5 @@ Para verificar el correcto funcionamiento del sistema:
 Este proyecto está disponible bajo la licencia **MIT**.
 
 ---
-✉️ **Autor**: Ingeniero Mecatrónico
+✉️ **Autor**: CENCIARINI Angel Gabriel & RE Sebastian
 📍 **Proyecto de Medición de Distancia con ATmega328P**
