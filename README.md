@@ -1,10 +1,10 @@
-# 📡 Sensor de Distancia con ATmega328P
+# 📡 Sensor de Distancia con ATmega328P (Assembly)
 
 ## 📌 Descripción
 Este proyecto implementa un **sensor de distancia** utilizando un microcontrolador **ATmega328P**. Se usa un sensor ultrasónico para medir la distancia y mostrar los resultados a través de comunicación serie y LEDs.
 
 ## 🔧 Características
-- **Medición de distancia** con sensor ultrasónico (posiblemente HC-SR04).
+- **Medición de distancia** con sensor ultrasónico (HC-SR04).
 - **Gestión de comunicación serie** mediante buffers circulares.
 - **Control de estado** mediante registros en `GPIOR0`.
 - **Indicación visual** con LEDs en el microcontrolador.
